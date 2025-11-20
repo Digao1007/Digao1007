@@ -3,7 +3,7 @@
 
 # Hello, i´m Rodrigo 😄
 ## Welcome to my profile
-### I´m a Computer Engineering student at Universidade Estadual do Rio Grande do Sul.
+### I´m a Computer Engineering student at Universidade Estadual do Rio Grande do Sul (UERGS).
 ________________________________________________________________________________________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="40"/>
 ________________________________________________________________________________________________________________________________________________________
