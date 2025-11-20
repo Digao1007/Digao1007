@@ -1,4 +1,8 @@
-## Hi there 👋
+![Banner]()
+
+# Hello, i´m Rodrigo
+## Welcome to my profile
+### I´m a Computer Engineering at Universidade Estadual do Rio Grande do Sul.
 
 <!--
 **Digao1007/Digao1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
